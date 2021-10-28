@@ -4,7 +4,7 @@ version: 2.0.2
 repository: https://github.com/gabuldev/camera_camera
 homepage: https://gabul.dev/
 
-publish_to: 'Eduardo'
+publish_to: https://github.com/elalo4171
 environment:
   sdk: ">=2.12.0-0.0 <3.0.0"
 
