@@ -1,6 +1,6 @@
 import 'package:camera/camera.dart';
-import 'package:camera_camera/src/presentation/controller/camera_camera_controller.dart';
-import 'package:camera_camera/src/shared/entities/camera_side.dart';
+import 'package:camera_camera_ed/src/presentation/controller/camera_camera_controller.dart';
+import 'package:camera_camera_ed/src/shared/entities/camera_side.dart';
 import 'package:rxdart/subjects.dart';
 
 import 'camera_service.dart';
