@@ -1,8 +1,7 @@
 name: camera_camera_ed
 description: The easy plugin camera for your project, platforms Android and iOS.
-version: 2.0.2
-repository: https://github.com/gabuldev/camera_camera
-homepage: https://gabul.dev/
+version: 1.0.0
+
 
 publish_to: https://github.com/elalo4171
 environment:
